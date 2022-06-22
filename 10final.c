@@ -3,7 +3,7 @@ main()
 {
    FILE *f1, *f2, *f3;
    int number, i;
-   printf("manas\n");
+   printf("manas thakur\n");
    printf("Contents of DATA file\n\n");
    f1 = fopen("DATA", "w"); 
    for(i = 1; i <= 30; i++)
